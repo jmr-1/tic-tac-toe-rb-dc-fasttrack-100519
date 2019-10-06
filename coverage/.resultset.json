@@ -1,0 +1,48 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/bold-lab-5881/tic-tac-toe-rb-dc-fasttrack-100519/lib/tic_tac_toe.rb": [
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        null,
+        null,
+        1,
+        null,
+        3,
+        3,
+        null,
+        null,
+        1,
+        3,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        0,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1570387015
+  }
+}
